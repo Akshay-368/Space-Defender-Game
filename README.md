@@ -88,4 +88,4 @@ Please keep pull requests focused and atomic.
 
 ---
 
-If you want, I’ll generate a ready-to-copy `README.md` file, add a `LICENSE` block, or convert the prototype into a tiny repo with modules, build scripts, and example assets. Which route do you want — pretty visuals, more mechanics, or a tidy dev repo?
+
