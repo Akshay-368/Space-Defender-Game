@@ -58,7 +58,7 @@ python -m http.server 8000
 / (repo root)
 ├─ index.html        # the single-file prototype (provided)
 ├─ README.md         # this file
-└─ assets/           # (optional) sprites, audio, models if you add them later
+└─ assets/           # (optional) sprites, audio, models if  added them later
 ```
 
 ---
